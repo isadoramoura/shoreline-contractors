@@ -5,48 +5,72 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
+<h3>Full Service and Professional Painters</h3>
+<p>Planning your next Vancouver Island commercial or residential house makeover? Looking for a professional house painter to deliver a superb paint job for your home with superior workmanship? If you are looking for the best house painting service in Vancouver Island, you have come to the right place. We are a trusted house painting company committed to delivering top quality outcomes to our clients every time.</p>
+<p>Our cost-effective residential painting services are the best way to beautify your home. Our tradies pull off impeccable home transformations with our superior painting service. Our team of home painters add long-lasting touches and finishes with the highest standards of workmanship. This is why the leading homeowners, builders, renovators, and real estate agents trust our home painters in Vancouver Island with their projects.</p>
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/home5.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/home5.jpg" /></noscript> 
+<section id="why" class="pro-about-why">
+    <h3 style="text-align: center;">Why Choose Us</h3>
+  <div class="pro-about-why-wrapper flex flex-row flex-hor-between">
+    <div class="pro-about-why-inner flex flex-row flex-hor-between flex-vert-center flex-wrap">
+        <div class="pro-why-tile flex flex-row flex-hor-between">
+          <div class="pro-why-tile-icon">
+            <img src="http://prorisepainting.com/wp-content/themes/Prorise/img/pr-icon-choose-us-1.png">
+          </div>
+          <div class="pro-why-tile-title">
+            <h3>Detailed Estimates/Proposals</h3>
+            <p>Our industry leading estimates outlines your entire painting process. Eliminating the risk of any hidden cost and surprises.</p>
+          </div>
+        </div>
+        <div class="pro-why-tile flex flex-row flex-hor-between">
+          <div class="pro-why-tile-icon">
+            <img src="http://prorisepainting.com/wp-content/themes/Prorise/img/pr-icon-choose-us-6.png">
+          </div>
+          <div class="pro-why-tile-title">
+            <h3>Quality Workmanship</h3>
+            <p>Our highly skilled, experienced, clean professional full time painters will make sure all of your expectations are meet.</p>
+          </div>
+        </div>
+        <div class="pro-why-tile flex flex-row flex-hor-between">
+          <div class="pro-why-tile-icon">
+            <img src="http://prorisepainting.com/wp-content/themes/Prorise/img/pr-icon-choose-us-3.png">
+          </div>
+          <div class="pro-why-tile-title">
+            <h3>On Time &amp; On Budget</h3>
+            <p>Making sure we do not disturb you and making sure things are done right the first time.</p>
+          </div>
+        </div>
+        <div class="pro-why-tile flex flex-row flex-hor-between">
+          <div class="pro-why-tile-icon">
+            <img src="http://prorisepainting.com/wp-content/themes/Prorise/img/pr-icon-choose-us-4.png">
+          </div>
+          <div class="pro-why-tile-title">
+            <h3>24 Hour Service</h3>
+            <p>There is always someone available to take your call 24 hours a day. We are always available.</p>
+          </div>
+        </div>
+        <div class=" pro-no-margin pro-why-tile flex flex-row flex-hor-between">
+          <div class="pro-why-tile-icon">
+            <img src="http://prorisepainting.com/wp-content/themes/Prorise/img/pr-icon-choose-us-2.png">
+          </div>
+          <div class="pro-why-tile-title">
+            <h3>Locally Owned and Operated</h3>
+            <p>Shoreline is not a franchisee. We are a local and organic small business. Been in operation for the past years and employees locally based carrier family orientated painters.</p>
+          </div>
+        </div>
+        <div class=" pro-no-margin pro-why-tile flex flex-row flex-hor-between">
+          <div class="pro-why-tile-icon">
+            <img src="http://prorisepainting.com/wp-content/themes/Prorise/img/pr-icon-choose-us-5.png">
+          </div>
+          <div class="pro-why-tile-title">
+            <h3>Industry Leading Warranty</h3>
+            <p>Shoreline offers an industry leading 5 year warranty and limited lifetime product warranties.</p>
+          </div>
+        </div>
+    </div>
+  </div>
+</section>

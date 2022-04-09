@@ -30,16 +30,20 @@
   h2 {
     font-family: $font-family-base;
     font-size: 26px;
-    font-weight: normal;
+    font-weight: 500;
     line-height: 1.4;
     margin-top: 30px;
+    color: #800020;
+    
   }
   h3 {
     font-family: $font-family-base;
     font-size: 20px;
     line-height: 1.4;
-    font-weight: normal;
+    font-weight: 600;
     margin-top: 30px;
+    text-align: center;
+    color: #800020;
   }
   ul,
   ol {
