@@ -8,12 +8,11 @@ layout: service
 <section class="unique unique1">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/bathroom4.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/bathroom4.jpg" /></noscript> </div>
-<div class="col-xs-12 col-md-6">
+
+<div class="col-xs-12 col-md-12">
 <h3>Bathroom Painting Experts</h3>
-<p></p><p>Is your bathroom looking a little dated and tired from the wear? A fresh layer of paint can make a world of difference and add a new look and feel that will make you want to spend a little more time in your bathrooms once more. Newline Painting offers professional bathroom and bathtub painting services in Melbourne. Our finishes are of premium quality and are sure to add some extra style, function, beauty and value to your property.</p>
-<p>Our bathroom and bathtub painting services are well thought out and designed to blend function and aesthetic considerations. We have a team of highly experienced and professional bathroom painters that can work with you throughout the process when it comes to bathroom painting. Our Melbourne bathroom and bathtub painters can assist you with every item right from colour selection to the actual painting and cleaning after we are done with the job.</p>
+<p></p><p>Is your bathroom looking a little dated and tired from the wear? A fresh layer of paint can make a world of difference and add a new look and feel that will make you want to spend a little more time in your bathrooms once more. Shoreline Painting offers professional bathroom and bathtub painting services. Our finishes are of premium quality and are sure to add some extra style, function, beauty and value to your property.</p>
+<p>Our bathroom and bathtub painting services are well thought out and designed to blend function and aesthetic considerations. We have a team of highly experienced and professional bathroom painters that can work with you throughout the process when it comes to bathroom painting. Our bathroom and bathtub painters can assist you with every item right from colour selection to the actual painting and cleaning after we are done with the job.</p>
 <p></p>
 </div>
 </div>
@@ -22,11 +21,9 @@ layout: service
 <section class="unique unique2">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/bathroom3.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/bathroom3.jpg" /></noscript> </div>
-<div class="col-xs-12 col-md-6">
+<div class="col-xs-12 col-md-12">
 <h3>High Quality Bathroom Painters</h3>
-<p></p><p>At Newline Painting, you can trust us to paint your bathroom the right way. We understand the unique requirements of professional bathroom painting. Unlike other interior surfaces, bathrooms and bathtubs are often exposed to plenty of moisture, heat and steam. Bathrooms are also relatively small. For impeccable results that will make your bathroom the best place to unwind after hard work, we handle the task with the highest standards of professionalism and craftsmanship.</p>
+<p></p><p>At Shoreline Painting, you can trust us to paint your bathroom the right way. We understand the unique requirements of professional bathroom painting. Unlike other interior surfaces, bathrooms and bathtubs are often exposed to plenty of moisture, heat and steam. Bathrooms are also relatively small. For impeccable results that will make your bathroom the best place to unwind after hard work, we handle the task with the highest standards of professionalism and craftsmanship.</p>
 <p>We pay very close attention to all the aspects of professional bathroom painting. Our professional bathtub painters will be with you every step of the way right from choosing the right bathroom colours to performing the surface preparation, painting the bathroom and applying the finishing touches that will create that appealing space that you need to unwind in at the end of a hard day’s job.</p>
 <p></p>
 </div>
@@ -36,7 +33,7 @@ layout: service
 <section class="faq">
 <div class="container">
 <h2 class="text-center mb pb-">Frequently Asked Questions for Bathroom Painting</h2>
-<div class="col-sm-6">
+<div class="col-sm-12">
 <div class="accordion">
 <h4 class="h6">How should the bathroom be prepared for painting? </h4>
 <div class="accordion__hidden">
@@ -112,23 +109,17 @@ layout: service
 <section class="unique">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-sm-6">
+<div class="col-xs-12 col-sm-12">
 <h3>House Painting Bathroom &amp; Bathtub Painting</h3>
-<p></p><p>At Newline Painting, we offer our customers an uncompromising to quality and industry-leading workmanship when it comes to bathroom and bathtub painting services. Our professional painters are experienced experts in their field who work with the highest level of skill and integrity.</p>
+<p></p><p>At Shoreline Painting, we offer our customers an uncompromising to quality and industry-leading workmanship when it comes to bathroom and bathtub painting services. Our professional painters are experienced experts in their field who work with the highest level of skill and integrity.</p>
 <p>When you hire us for your bathroom and bathtub painting, you can look forward to guaranteed quality, superior craftsmanship and competitive pricing. No matter the size of your bathroom, big or small, we can pull off a great paint job without compromising on then quality and workmanship.</p>
 <p>Our licensed, experienced and insured painters use time-honoured methods to deliver a fast and clean paint job. Our job entails colour consult, choosing the right paint, and cleaning up after our jobs to give you a clean and elegant bathroom.</p>
 <p></p>
 </div>
-<div class="col-xs-12 col-sm-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/bathroom1.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/bathroom1.jpg" /></noscript> </div>
-</div>
-<div class="row flex">
-<div class="col-xs-12 col-sm-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/bathroom5.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/bathroom5.jpg" /></noscript> </div>
-<div class="col-xs-12 col-sm-6">
+<div class="col-xs-12 col-sm-12">
 <h3>Customers Choose Us For Their Bathroom Paint</h3>
-<p></p><p>Our professional painters in Melbourne work with the highest degree of integrity. Customers across Melbourne, including homeowners and real estate agents, trust us with the most demanding bathroom renovation projects. Over the years, we have a built a reputation for quality, professionalism and excellence when it comes to bathroom and bathtub painting services. We are the premier bathroom painting company in Melbourne and will stand reliably by your side during your bathroom renovations.</p>
-<p>We offer our bathroom and bathtub painting services with the highest standards of workmanship. Our Melbourne bathroom painters are professional, courteous, and work with maximum respect for your home. We schedule our bathroom painting jobs to ensure there is minimal disruption to your daily routine.</p>
+<p></p><p>Our professional painters work with the highest degree of integrity. Customers across the island, including homeowners and real estate agents, trust us with the most demanding bathroom renovation projects. Over the years, we have a built a reputation for quality, professionalism and excellence when it comes to bathroom and bathtub painting services. We are the premier bathroom painting company in the island and will stand reliably by your side during your bathroom renovations.</p>
+<p>We offer our bathroom and bathtub painting services with the highest standards of workmanship. Our bathroom painters are professional, courteous, and work with maximum respect for your home. We schedule our bathroom painting jobs to ensure there is minimal disruption to your daily routine.</p>
 <p></p>
 </div>
 </div>

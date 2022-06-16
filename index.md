@@ -2,12 +2,30 @@
 title: Shoreline Contractors
 layout: home
 description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/p2.png"
+intro_image: "images/illustrations/shoreline/page-1.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
+carousels:
+  - images: 
+    - image: /images/services/team_house.JPG
+    - image: /images/services/hallway.JPG
+    - image: /images/services/house_inside.JPG
+    - image: /images/services/painting_inside.JPG
 ---
+<div id="site_brand">
+<h1 id="brand_h1">
+  <span>Professional</span>
+  <div class="message">
+    <div class="word1">Services</div>
+    <div class="word2">Culture</div>
+    <div class="word3">Painting</div>
+  </div>
+</h1>
+</div>
 
-# Professional Painting Services
+<p>Shoreline Contractors is changing the way we can get a paint service.</p>
+<p>Our aim is to provide transparent and value-based prices, whilst delivering a first rate service on every job we perform.
+</p>
 
-Shoreline Contractors is changing the way we can get a paint service. <br/> Our aim is to provide transparent and value-based prices, whilst delivering a first rate service on every job we perform.
+ 

@@ -1,6 +1,5 @@
 ---
 ---
-
 // Colors
 $primary: #800020;
 $primary-dark: #630119;
@@ -63,15 +62,289 @@ $sub-footer-text-color: $white;
 @import "pages/page-service";
 @import "pages/page-contact";
 
+.map-responsive{
+
+  overflow:hidden;
+
+  padding-bottom:56.25%;
+
+  position:relative;
+
+  height:0;
+
+  margin-top: 45px;
+
+}
+
+.map-responsive iframe{
+
+  left:0;
+
+  top:0;
+
+  height:100%;
+
+  width:100%;
+
+  position:absolute;
+
+}
+
+@media only screen and (max-width: 768px) {
+
+  .locations {
+    font-size: 18px;
+  }
+
+  .message {
+    font-size: small;
+  }
+}
+
+#contact_form_div {
+ width:330px;
+ margin: auto;
+ padding:10px;
+ background-color:#510316bf;
+ text-align: center;
+ margin-bottom: 45px;
+ text-shadow: 2px 5px 2px black;
+ border-radius: 16px;
+ box-shadow: 10px 10px;
+}
+
+#contact_form_div #contact_label
+{
+ margin:15px;
+ margin-bottom:30px;
+ font-size:25px;
+ font-weight:bold;
+ color:white;
+}
+#contact_form_div input[type="text"]
+{
+ width:230px;
+ height:40px;
+ border-radius:2px;
+ font-size:17px;
+ padding-left:5px;
+ border:none;
+ background:#d2bbc07a;
+ border-radius: 8px;
+}
+#contact_form_div textarea
+{
+ width:230px;
+ height:70px;
+ border-radius:2px;
+ font-size:17px;
+ padding: 5px;
+ background:#d2bbc07a;
+ border-radius: 8px;
+}
+#contact_form_div input[type="submit"]
+{
+ width:230px;
+ height:40px;
+ border:none;
+ border-radius:2px;
+ font-size:17px;
+ background-color:#fff;
+ border-bottom:7px solid #8000206e;
+ color:#570217d6;
+ font-weight:bold;
+ border-radius: 8px;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  color: #500a095c;
+}
+
+input:-moz-placeholder,
+textarea:-moz-placeholder {
+  color: #500a095c;
+}
+
+@media only screen and (min-width:700px) and (max-width:995px)
+{
+
+ #contact_form_div
+ {
+  width:50%;
+  margin-left:25%;
+  padding-left:0px;
+  padding-right:0px;
+ }
+ #contact_form_div input[type="text"]
+ {
+  width:80%;
+ }
+ #contact_form_div textarea
+ {
+  width:80%;
+ }
+ #contact_form_div input[type="submit"]
+ {
+  width:80%;
+ }
+}
+@media only screen and (min-width:400px) and (max-width:699px)
+{
+
+ #contact_form_div
+ {
+  width:60%;
+  margin-left:20%;
+ }
+ #contact_form_div input[type="text"]
+ {
+  width:80%;
+ }
+ #contact_form_div textarea
+ {
+  width:80%;
+ }
+ #contact_form_div input[type="submit"]
+ {
+  width:80%;
+ }
+}
+@media only screen and (min-width:100px) and (max-width:399px)
+{
+
+ #contact_form_div
+ {
+  width:90%;
+  margin-left:5%;
+  padding-left:0px;
+  padding-right:0px;
+ }
+ #contact_form_div input[type="text"]
+ {
+  width:80%;
+ }
+ #contact_form_div textarea
+ {
+  width:80%;
+ }
+ #contact_form_div input[type="submit"]
+ {
+  width:80%;
+ }
+}
+
 @media only screen and (max-width: 600px) {
   .call {
     font-size: 15px;
   }
   .intro {
-    padding-bottom: 0px;
+    padding-bottom: 40px;
   }
   .accordion{
     font-size: 15px;
+  }
+}
+
+#site_brand {
+  box-sizing: border-box;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 55px;
+}
+
+#brand_h1 {
+  color: #333;
+  font-family: tahoma;
+  font-size: 3rem;
+  font-weight: 100;
+  line-height: 1.56;
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+  width: 550px;
+}
+
+.message {
+  background-color: rgba(181, 52, 52, 0.802);
+  color: #333;
+  display: block;
+  font-weight: 900;
+  overflow: hidden;
+  position: absolute;
+  padding-left: 0.5rem;
+  top: 0.2rem;
+  left: 264px;
+  animation: openclose 5s ease-in-out infinite;
+}
+
+.word1, .word2, .word3 {
+  font-family: tahoma;
+}
+
+@keyframes openclose {
+  0% {
+    top: 0.2rem;
+    width: 0;
+  }
+  5% {
+    width: 0;
+  }
+  15% {
+    width: 230px;
+  }
+  30% {
+    top: 0.2rem;
+    width: 230px;
+  }
+  33% {
+    top: 0.2rem;
+    width: 0;
+  }
+  35% {
+    top: 0.2rem;
+    width: 0;
+  }
+  38% {
+    top: -4.5rem;
+    
+  }
+  48% {
+    top: -4.5rem;
+    width: 190px;
+  }
+  62% {
+    top: -4.5rem;
+    width: 190px;
+  }
+  66% {
+    top: -4.5rem;
+    width: 0;
+    text-indent: 0;
+  }
+  71% {
+    top: -9rem;
+    width: 0;
+    text-indent: 5px;
+  }
+  86% {
+    top: -9rem;
+    width: 285px;
+  }
+  95% {
+    top: -9rem;
+    width: 285px;
+  }
+  98% {
+    top: -9rem;
+    width: 0;
+    text-indent: 5px;
+  }
+  100% {
+    top: 0;
+    width: 0;
+    text-indent: 0;
   }
 }
 
@@ -83,6 +356,7 @@ body {
     font-size: 16px;
     line-height: 1.3;
   }
+  background: #80002030;
 }
 
 .accordion__hidden {

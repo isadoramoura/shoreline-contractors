@@ -1,13 +1,12 @@
 baseurl: '/'
 permalink: pretty
 title: 'Shoreline Contractors'
-
+  
 logo:
-  mobile: "images/logo/mobileLogo.png"
-  desktop: "images/logo/logo.png"
+  mobile: "images/logo/mobile_logo.png"
+  desktop: "images/logo/logo_browser.png"
   desktop_height: "150px"
   desktop_width: "100%"
-
 
 collections:
   services:

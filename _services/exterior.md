@@ -8,12 +8,10 @@ layout: service
 <section class="unique unique1">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/exterior6.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/exterior6.jpg" /></noscript> </div>
-<div class="col-xs-12 col-md-6">
-<h3>Melbourne Exterior Painting Services</h3>
-<p></p><p>Are you looking for the most professional and trusted exterior house painters Melbourne has to offer? At Newline Painting, we are your go-to partner when it comes to your exterior house paint jobs in Melbourne. We deliver professional, cost-effective and superior quality home and residential painting services to residential and commercial clients all over Melbourne.</p>
-<p>Our team can handle all your exterior painting jobs for the best finishes. Our Melbourne exterior painting services will come in handy when you are doing quick exterior wall paint for a market listing. We ensure that first impression is a lasting and winning one. When you work with our house painters, you are sure to close those deals quickly.</p>
+<div class="col-xs-12 col-md-12">
+<h3>Exterior Painting Services</h3>
+<p></p><p>Are you looking for the most professional and trusted exterior house painters Melbourne has to offer? At Shoreline Painting, we are your go-to partner when it comes to your exterior house paint jobs in the Island. We deliver professional, cost-effective and superior quality home and residential painting services to residential and commercial clients all over the Island.</p>
+<p>Our team can handle all your exterior painting jobs for the best finishes. Our exterior painting services will come in handy when you are doing quick exterior wall paint for a market listing. We ensure that first impression is a lasting and winning one. When you work with our house painters, you are sure to close those deals quickly.</p>
 <p></p>
 </div>
 </div>
@@ -22,9 +20,9 @@ layout: service
 <section class="unique unique2">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/exterior1.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/exterior1.jpg" /></noscript> </div>
-<div class="col-xs-12 col-md-6">
+<div class="col-xs-12 col-md-12">
+<img src="/images/services/team_house.JPG" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/exterior1.jpg" /></noscript> </div>
+<div class="col-xs-12 col-md-12">
 <h3>No Job is Too Big or Too Small</h3>
 <p></p><p>With an exterior house painting experience spanning a decade, you can trust our team of professional Melbourne painters to deliver sensational results for your building exteriors with superior workmanship. No exterior painting job in Melbourne is too small or too big for our licensed, certified and highly experienced exterior house painters in Melbourne. We leverage our depth of experience to ensure the exteriors of your home look exactly as you want to them to look. Our uncompromising quality and professionalism in exterior painting services will exceed your expectations.</p>
 <p>We offer a comprehensive exterior painting service in Melbourne to freshen up all aspects on the exterior of your property. Our team handles everything from prepping work and painting your building exteriors to the painting of other surfaces and structures outside your property such as fences, garages, pergolas, and sheds among others. We can also handle sand backing, varnishing and staining of the wooden structures outside your property.</p>
@@ -35,8 +33,8 @@ layout: service
 </section>
 <section class="faq">
 <div class="container">
-<h2 class="text-center mb pb-">Frequently Asked Questions for Exterior Painting</h2>
-<div class="col-sm-6">
+<h2>Frequently Asked Questions for Exterior Painting</h2>
+<div class="col-sm-12">
 <div class="accordion">
 <h4 class="h6">Do I need to do any preparation work before you start?</h4>
 <div class="accordion__hidden">
@@ -70,7 +68,7 @@ layout: service
 </div>
 </div>
 </div>
-<div class="col-sm-6">
+<div class="col-sm-12">
 <div class="accordion">
 <h4 class="h6">When is the best time to paint the exterior of my house?</h4>
 <div class="accordion__hidden">
@@ -97,7 +95,7 @@ layout: service
 <p>A rough guide for exterior painting is:</p>
 <p>1 storey house – 8-10days</p>
 <p>2 storey house – 2~ weeks</p>
-<p>Get in touch with our team of professional exterior painters in Melbourne and let us evaluate the state of your property for a more accurate time estimate.</p>
+<p>Get in touch with our team of professional exterior painters and let us evaluate the state of your property for a more accurate time estimate.</p>
 <p></p>
 </div>
 </div>
@@ -107,12 +105,10 @@ layout: service
 <section class="unique unique3">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/exterior3-1.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/exterior3-1.jpg" /></noscript> </div>
-<div class="col-xs-12 col-md-6">
+<div class="col-xs-12 col-md-12">
 <h3>Nothing Looks Better Than a New Paint Job</h3>
-<p></p><p>Our team of professional Melbourne exterior painters can paint other wooden structures in your building exteriors like verandas, doors and even outdoor furniture. No matter the state of your building exteriors, our professional exterior painters will do a stellar job that will bring out a pristine aspect and atmosphere on your house exteriors guaranteed to impress any prospective buyer.</p>
-<p>Australia has some of the harshest weather for paintwork characterised by intense heat, high humidity, and salty water. Even with the best paint job, these unforgiving conditions are bound to wear out your house exteriors over time and create unsightly exteriors. If the house goes for years without a paint job, the exteriors will be in a pathetic state.</p>
+<p></p><p>Our team of professional exterior painters can paint other wooden structures in your building exteriors like verandas, doors and even outdoor furniture. No matter the state of your building exteriors, our professional exterior painters will do a stellar job that will bring out a pristine aspect and atmosphere on your house exteriors guaranteed to impress any prospective buyer.</p>
+<p>Vancouver Island has some of the harshest weather for paintwork characterised by intense heat, high humidity, and salty water. Even with the best paint job, these unforgiving conditions are bound to wear out your house exteriors over time and create unsightly exteriors. If the house goes for years without a paint job, the exteriors will be in a pathetic state.</p>
 <p></p>
 </div>
 </div>

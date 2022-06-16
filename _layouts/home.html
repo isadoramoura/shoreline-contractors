@@ -21,6 +21,8 @@ bodyClass: "page-home"
   </div>
 </div>
 
+{% include carousel.html height="30" unit="%" duration="3" number="1" %}
+
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
@@ -39,7 +41,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+        <a class="button button-primary" href="{{ "services" | relative_url }}" style="-webkit-text-fill-color: unset;">View All Services</a>
       </div>
     </div>
   </div>

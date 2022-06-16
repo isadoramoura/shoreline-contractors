@@ -8,11 +8,6 @@ layout: service
 <div>
     <div class="row flex">
         <div>
-            <img src="https://www.newlinepainting.com.au/wp-content/uploads/2018/11/empty-clean-room.jpeg"
-                class="lazyloaded" data-ll-status="loaded"><noscript><img
-                    src="https://www.newlinepainting.com.au/wp-content/uploads/2018/11/empty-clean-room.jpeg" /></noscript>
-        </div>
-        <div>
             <h3>Apartment Painting Services</h3>
             <p></p>
             <p>Just moved into your newly rented apartment but not happy with the interior walls? Or perhaps you are
@@ -26,9 +21,8 @@ layout: service
     <div class="container relative">
         <div class="row flex">
             <div>
-                <img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/apartment1.jpg"
-                    class="lazyloaded" data-ll-status="loaded"><noscript><img
-                        src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/apartment1.jpg" /></noscript>
+                <img src="/images/services/hallway.JPG"
+                    class="lazyloaded" data-ll-status="loaded">
             </div>
             <div>
                 <h3>Apartment Painters You Can Trust</h3>

@@ -7,9 +7,9 @@ weight: 4
 <section class="unique unique1">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/cabinet5.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/cabinet5.jpg" /></noscript> </div>
-<div class="col-xs-12 col-md-6">
+<div class="col-xs-12 col-md-12">
+<img src="/images/services/fireplace.JPG" class="lazyloaded" data-ll-status="loaded"></div>
+<div class="col-xs-12 col-md-12">
 <h3>Professional Cabinet Painters Near Me</h3>
 <p></p><p>If you are currently giving your kitchen cabinets a makeover or simply need to update the colours and finishes of your kitchen cabinets, you have come to the right place. We can paint kitchen cabinets, bathroom cabinets, hallway cabinets, and any other cabinet and cupboard surfaces on your property with a high standard of craftsmanship.</p>
 <p>We offer a comprehensive and professional cabinet painting service that will dramatically transform the look and feel of your cabinetry. Our professional cabinet painting services are rendered with the highest standards of craftsmanship and at competitive rates. With our skill and experience, we know what will work for your cabinets. We work with speed and efficiency to complete the job as quickly as possible with minimal disruptions to your daily routine or everyday life.</p>
@@ -22,11 +22,9 @@ weight: 4
 <section class="unique unique2">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/cabinet4.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/cabinet4.jpg" /></noscript> </div>
-<div class="col-xs-12 col-md-6">
+
+<div class="col-xs-12 col-md-12">
 <h3>The Best Cabinet Paint for Your Kitchen</h3>
-<p></p><p>Our professional kitchen cabinet painters in Melbourne are skilled, experienced, and professional. We use top quality paints and materials to breathe a new lease of life into your kitchens with our professional kitchen cabinet painting services. We offer a comprehensive service. Our professional kitchen cabinet painters will do everything right from sanding to removing the entire colour without ruining kitchen cupboards. We can remove the grease, patch up the gaps and any damages on your kitchen cupboards before applying a top-quality layer of paint that will give your kitchens the top quality and lasting finishes that you wish for.</p>
 <p>Whether you are building a new home, doing kitchen renovations or remodelling, you can always trust our professional kitchen cabinet painters to pull off a stellar job that will transform your kitchens and boost your home value. We also do professional bathroom cabinet painting for gorgeous and inspired bathrooms that look nice and welcoming. Call us today for professional painting and repainting of bathroom and laundry cabinets.</p>
 <p></p>
 </div>
@@ -77,7 +75,7 @@ weight: 4
 <div class="accordion">
 <h4 class="h6">How Long Will Kitchen Cabinet Paint Last?</h4>
 <div class="accordion__hidden">
-<p></p><p>The lifespan of your cabinet coating depends on a number of factors including the paint quality, the quality of workmanship, the prep work and detail done on the cabinetry before painting. If this is coupled with great maintenance, your cabinet paint can restore their finishes for up to 10 years. At Newline Painting, we offer generous warranty on all our cabinet painting services.</p>
+<p></p><p>The lifespan of your cabinet coating depends on a number of factors including the paint quality, the quality of workmanship, the prep work and detail done on the cabinetry before painting. If this is coupled with great maintenance, your cabinet paint can restore their finishes for up to 10 years. At Shoreline Painting, we offer generous warranty on all our cabinet painting services.</p>
 <p></p>
 </div>
 </div>
@@ -91,7 +89,7 @@ weight: 4
 <div class="accordion">
 <h4 class="h6">Should I Have Cabinets Professionally Painted or Should I DIY?</h4>
 <div class="accordion__hidden">
-<p></p><p>For the best and most durable finishes on your cabinetry, it is prudent to have them painted and primed by a professional. Professional cabinet painters know the best paints to use, the prep work required, the number of coats to be used as well as how to apply the coats for the best adherence and quality finishes. At Newline Painting, we apply great touches and layers of paint with excellent workmanship.</p>
+<p></p><p>For the best and most durable finishes on your cabinetry, it is prudent to have them painted and primed by a professional. Professional cabinet painters know the best paints to use, the prep work required, the number of coats to be used as well as how to apply the coats for the best adherence and quality finishes. At Shoreline Painting, we apply great touches and layers of paint with excellent workmanship.</p>
 <p></p>
 </div>
 </div>
@@ -115,11 +113,9 @@ weight: 4
 <section class="unique unique3">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/cabinet3.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/cabinet3.jpg" /></noscript> </div>
-<div class="col-xs-12 col-md-6">
+
+<div class="col-xs-12 col-md-12">
 <h3>Be Proud of Your Beautiful Cabinets</h3>
-<p></p><p>Be it in kitchens, bathrooms or some entertainment centre, cabinets are often installed in places where we are likely to spend an odious amount of time. In most Australian homes, the kitchen is probably the most luxurious and modern place to spend time in. It is also the place where guests are likely to visit. You can cook and share meals with friends and family here. Your neighbours are likely to spend some time with you in your kitchens. All of these make our kitchens the heartbeat of any home. It should therefore look its best with professional kitchen cabinet painting services that caters not just for the kitchen walls but also the kitchen cabinet walls.</p>
 <p>The same attention to detail applies when it comes to your bathroom painting. We spend a lot of time in our bathrooms. We use it on a daily basis and it ought to look its best to serve and inspire us at the beginning and the end of each day. Our professional bathroom cabinet painting services are guaranteed to refresh your bathrooms and give them a fresh lease of life. Whether you are planning to refresh the old paint or give the bathroom a complete makeover with a new paint colour and features, we are here to ensure that your bathroom cabinet painting will be a roaring success. We use the right paint quality for bathrooms. Our professional bathroom cabinet painters can guarantee smooth and lasting finishes that will serve you for years to come.</p>
 <p></p>
 </div>

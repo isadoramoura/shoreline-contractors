@@ -8,8 +8,8 @@ layout: service
 <section class="unique unique1">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/presale5.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/presale5.jpg" /></noscript> </div>
+<div class="col-xs-12 col-md-12">
+<img src="/images/services/team_house.JPG" class="lazyloaded" data-ll-status="loaded"></div>
 <div class="col-xs-12 col-md-6">
 <h3>What is a Pre Sale House Paint?</h3>
 <p></p><p>First impressions matter when you are putting a house on sale. Painting is often a low-cost and high-impact property makeover. Pre sale house painting dramatically improves the appeal of the property and will cost you very little. That is why giving your house some makeover to make it more appealing to potential buyers and renters is often a sure winner.</p>
@@ -48,7 +48,7 @@ layout: service
 <h4 class="h6">How much does a pre sale house job cost? </h4>
 <div class="accordion__hidden">
 <p></p><p>A pre sale house paint is quite cost-effective. In Australia, an interior house paint job costs $20 to $30 per square meter or $25 to $40 per hour. This excludes the cost of the paint and other materials. The lower estimate of these costs is based on the use of a single colour with little prepping and trim work. More complex paint jobs will, invariably, cost you more.</p>
-<p>In Melbourne, this cost can vary anywhere from $2,500 to $20,000 depending on factors such as the size of the house, complexity, amount of prep work, the type of surface that is being painted as well as whether you are planning to do interior or exterior painting.</p>
+<p>In the Island, this cost can vary anywhere from $2,500 to $20,000 depending on factors such as the size of the house, complexity, amount of prep work, the type of surface that is being painted as well as whether you are planning to do interior or exterior painting.</p>
 <p>The interior painting for a standard two-bedroom housing unit costs anywhere from $2,500 to $3,500. The cost for painting a 2-storey home can be anywhere from $5,500 to $20,000. Roof painting can cost from $2,800 to $4,500.</p>
 <p></p>
 </div>
@@ -82,12 +82,10 @@ layout: service
 <section class="unique unique3">
 <div class="container relative">
 <div class="row flex">
-<div class="col-xs-12 col-md-6">
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/presale1.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/presale1.jpg" /></noscript> </div>
-<div class="col-xs-12 col-md-6">
-<h3>Why Choose Newline Painting for Your Presale Paint</h3>
-<p></p><p>Our professional Melbourne pre sale painting contractors are the best at what we do. We deliver flawless finishes that will put you in a good stead to get a better selling price and realize a quick turnover without overcapitalizing your house renovations or makeovers.&nbsp;Newline Painting is one of the most reputable and reliable pre sale painting contractors in Melbourne. Sellers entrust us with their diverse pre sale interior painting and exterior painting needs in Melbourne and we always supersede their expectations with our premium quality services.</p>
-<p>Our professional painting services give you a superior competitive edge in the Melbourne property market. We do exquisite pre sale house painting and decorations that will get more foot traffic and eye balls streaming your way. The most successful Melbourne real estate agents trust our team of professional exterior and interior house painters to get their properties market-ready.</p>
+<div class="col-xs-12 col-md-12">
+<h3>Why Choose Shoreline Painting for Your Presale Paint</h3>
+<p></p><p>Our professional pre sale painting contractors are the best at what we do. We deliver flawless finishes that will put you in a good stead to get a better selling price and realize a quick turnover without overcapitalizing your house renovations or makeovers.&nbsp;Shoreline Painting is one of the most reputable and reliable pre sale painting contractors. Sellers entrust us with their diverse pre sale interior painting and exterior painting needs and we always supersede their expectations with our premium quality services.</p>
+<p>Our professional painting services give you a superior competitive edge in the property market. We do exquisite pre sale house painting and decorations that will get more foot traffic and eye balls streaming your way. The most successful real estate agents trust our team of professional exterior and interior house painters to get their properties market-ready.</p>
 <p></p>
 </div>
 </div>
