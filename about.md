@@ -5,14 +5,16 @@ description: About
 bodyClass: page-about
 ---
 
-
+<div class="container relative">
+<div class="row flex">
+<div class="col-xs-12 col-md-12">
 <h3>Full Service and Professional Painters</h3>
 <p>Planning your next Vancouver Island commercial or residential house makeover? Looking for a professional house painter to deliver a superb paint job for your home with superior workmanship? If you are looking for the best house painting service in Vancouver Island, you have come to the right place. We are a trusted house painting company committed to delivering top quality outcomes to our clients every time.</p>
 <p>Our cost-effective residential painting services are the best way to beautify your home. Our tradies pull off impeccable home transformations with our superior painting service. Our team of home painters add long-lasting touches and finishes with the highest standards of workmanship. This is why the leading homeowners, builders, renovators, and real estate agents trust our home painters in Vancouver Island with their projects.</p>
-
-
-
-<img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/home5.jpg" class="lazyloaded" data-ll-status="loaded"><noscript><img src="https://www.newlinepainting.com.au/wp-content/uploads/2021/05/home5.jpg" /></noscript> 
+<img src="/images/services/team_house.JPG">
+</div>
+</div>
+</div>
 <section id="why" class="pro-about-why">
     <h3 style="text-align: center;">Why Choose Us</h3>
   <div class="pro-about-why-wrapper flex flex-row flex-hor-between">
