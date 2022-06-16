@@ -33,26 +33,26 @@ description: Contact
     <div class="row locations" style="justify-content: center;">
         <div class="column">
             <li class="surrounding-list-item">
-                <a href="https://www.newlinepainting.com.au/melbourne/abbotsford/" title="Abbotsford">Victoria</a>
+                <a href="">Victoria</a>
             </li>
             <li class="surrounding-list-item">
-                <a href="https://www.newlinepainting.com.au/melbourne/berwick/" title="Berwick">Esquimalt</a>
-            </li>
-        </div>
-        <div class="column">
-            <li class="surrounding-list-item">
-                <a href="https://www.newlinepainting.com.au/melbourne/albert-park/" title="Albert Park">Langford</a>
-            </li>
-            <li class="surrounding-list-item">
-                <a href="https://www.newlinepainting.com.au/melbourne/albert-park/" title="Saanich">Saanich</a>
+                <a href="">Esquimalt</a>
             </li>
         </div>
         <div class="column">
             <li class="surrounding-list-item">
-                <a href="https://www.newlinepainting.com.au/melbourne/albert-park/" title="Sidney">Sidney</a>
+                <a href="">Langford</a>
             </li>
             <li class="surrounding-list-item">
-                <a href="https://www.newlinepainting.com.au/melbourne/blackburn/" title="Blackburn">Nanaimo</a>
+                <a href="">Saanich</a>
+            </li>
+        </div>
+        <div class="column">
+            <li class="surrounding-list-item">
+                <a href="">Sidney</a>
+            </li>
+            <li class="surrounding-list-item">
+               <a href="">Nanaimo</a>
             </li>
         </div>
     </div>
